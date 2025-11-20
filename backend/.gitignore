@@ -1,0 +1,4 @@
+bikes.sqlite
+/node_modules/
+bun.lock
+package-lock.json

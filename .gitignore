@@ -1,0 +1,4 @@
+/backend/bikes.sqlite
+/backend/node_modules/
+/backend/bun.lock
+/backend/package-lock.json
